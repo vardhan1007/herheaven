@@ -44,7 +44,7 @@ body {
 }
 
 .navbar ul li a:hover {
-    background-color: #9d4edd;
+    background-color: #000000;
   color: #ffffff;
   transition: 0.4s ease;
   padding: 10px 60px;
